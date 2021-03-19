@@ -10,4 +10,8 @@ This is a version of the hunger game.
 The game is composed of several steps:
   * Insert people who want to play the hunger game.
   * Print them and their childrens to the screen.
+  * Insert people who are late and want to participate.
+  * Print them and their childrens to the screen.
+  * Remove cowards from the list.
+  * Print the one who want to stay and their childrens to the screen.
   * 
