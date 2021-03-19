@@ -1,6 +1,6 @@
 # Hunger_Game
 
-This is a version of the hunger game.
+This is a version of the hunger game.\n
 All the people who want to join can join the game at start, or at late.
 Before starting if there is any coward he can remove himself from the game.
 All the participants are orderd in a cyclic list and then sorted by there names at first and their ids at second.
