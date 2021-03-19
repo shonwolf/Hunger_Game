@@ -23,7 +23,5 @@ int main() {
 	head = SortCircleByID(head);
 	PrintCircle(head);
 	LetTheHungerGameBegin(head);
-	int p;
-	scanf("%d", &p);
 	return 0;
 }
