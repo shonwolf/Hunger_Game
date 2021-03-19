@@ -13,5 +13,9 @@ The game is composed of several steps:
   * Insert people who are late and want to participate.
   * Print them and their childrens to the screen.
   * Remove cowards from the list.
-  * Print the one who want to stay and their childrens to the screen.
-  * 
+  * Print the participants who want to stay and their childrens to the screen.
+  * Sort all the participants by their names.
+  * Print them and their childrens to the screen.
+  * Sort all the participants by thier ids.
+  * Print them and their childrens to the screen.
+  * Starts the hunger game and prints the last to stay.
